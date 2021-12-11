@@ -1,0 +1,6 @@
+[submodule "task-web-workers-vitaliyburla"]
+	path = sprint-5/task-web-workers-vitaliyburla
+	url = https://github.com/ita-react-marathon-sprint5/task-web-workers-vitaliyburla
+[submodule "task-websockets-vitaliyburla"]
+	path = sprint-5/task-websockets-vitaliyburla
+	url = https://github.com/ita-react-marathon-sprint5/task-websockets-vitaliyburla
