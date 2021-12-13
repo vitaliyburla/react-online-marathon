@@ -4,3 +4,12 @@
 [submodule "task-websockets-vitaliyburla"]
 	path = sprint-5/task-websockets-vitaliyburla
 	url = https://github.com/ita-react-marathon-sprint5/task-websockets-vitaliyburla
+[submodule "task-1-tools-npm-vitaliyburla"]
+	path = sprint-6/task-1-tools-npm-vitaliyburla
+	url = https://github.com/ita-react-marathon-sprint6/task-1-tools-npm-vitaliyburla
+[submodule "task-2-tools-typescript-vitaliyburla"]
+	path = sprint-6/task-2-tools-typescript-vitaliyburla
+	url = https://github.com/ita-react-marathon-sprint6/task-2-tools-typescript-vitaliyburla
+[submodule "task-3-tools-gulp-vitaliyburla"]
+	path = sprint-6/task-3-tools-gulp-vitaliyburla
+	url = https://github.com/ita-react-marathon-sprint6/task-3-tools-gulp-vitaliyburla
