@@ -13,3 +13,12 @@
 [submodule "task-3-tools-gulp-vitaliyburla"]
 	path = sprint-6/task-3-tools-gulp-vitaliyburla
 	url = https://github.com/ita-react-marathon-sprint6/task-3-tools-gulp-vitaliyburla
+[submodule "task-1-tools-babel-vitaliyburla"]
+	path = sprint-7/task-1-tools-babel-vitaliyburla
+	url = https://github.com/ita-react-marathon-sprint7/task-1-tools-babel-vitaliyburla
+[submodule "task-2-tools-webpack-vitaliyburla"]
+	path = sprint-7/task-2-tools-webpack-vitaliyburla
+	url = https://github.com/ita-react-marathon-sprint7/task-2-tools-webpack-vitaliyburla
+[submodule "task-3-tools-eslint-vitaliyburla"]
+	path = sprint-7/task-3-tools-eslint-vitaliyburla
+	url = https://github.com/ita-react-marathon-sprint7/task-3-tools-eslint-vitaliyburla
