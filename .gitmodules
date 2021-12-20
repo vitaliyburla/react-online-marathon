@@ -22,3 +22,15 @@
 [submodule "task-3-tools-eslint-vitaliyburla"]
 	path = sprint-7/task-3-tools-eslint-vitaliyburla
 	url = https://github.com/ita-react-marathon-sprint7/task-3-tools-eslint-vitaliyburla
+[submodule "task-1-jsx-vitaliyburla"]
+	path = sprint-8/task-1-jsx-vitaliyburla
+	url = https://github.com/ita-react-marathon-sprint8/task-1-jsx-vitaliyburla
+[submodule "task-2-jsx-vitaliyburla"]
+	path = sprint-8/task-2-jsx-vitaliyburla
+	url = https://github.com/ita-react-marathon-sprint8/task-2-jsx-vitaliyburla
+[submodule "task-3-style-vitaliyburla"]
+	path = sprint-8/task-3-style-vitaliyburla
+	url = https://github.com/ita-react-marathon-sprint8/task-3-style-vitaliyburla
+[submodule "task-4-css-modules-vitaliyburla"]
+	path = sprint-8/task-4-css-modules-vitaliyburla
+	url = https://github.com/ita-react-marathon-sprint8/task-4-css-modules-vitaliyburla
