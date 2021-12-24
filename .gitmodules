@@ -34,3 +34,12 @@
 [submodule "task-4-css-modules-vitaliyburla"]
 	path = sprint-8/task-4-css-modules-vitaliyburla
 	url = https://github.com/ita-react-marathon-sprint8/task-4-css-modules-vitaliyburla
+[submodule "sprint-9/task-1-react-keys-vitaliyburla"]
+	path = sprint-9/task-1-react-keys-vitaliyburla
+	url = https://github.com/ita-react-marathon-sprint9/task-1-react-keys-vitaliyburla
+[submodule "sprint-9/task-2-react-props-vitaliyburla"]
+	path = sprint-9/task-2-react-props-vitaliyburla
+	url = https://github.com/ita-react-marathon-sprint9/task-2-react-props-vitaliyburla
+[submodule "sprint-9/task-3-react-state-and-events-vitaliyburla"]
+	path = sprint-9/task-3-react-state-and-events-vitaliyburla
+	url = https://github.com/ita-react-marathon-sprint9/task-3-react-state-and-events-vitaliyburla
