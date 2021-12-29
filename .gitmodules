@@ -43,3 +43,9 @@
 [submodule "sprint-9/task-3-react-state-and-events-vitaliyburla"]
 	path = sprint-9/task-3-react-state-and-events-vitaliyburla
 	url = https://github.com/ita-react-marathon-sprint9/task-3-react-state-and-events-vitaliyburla
+[submodule "sprint-10/task-1-lifecycle-vitaliyburla"]
+	path = sprint-10/task-1-lifecycle-vitaliyburla
+	url = https://github.com/ita-react-marathon-sprint10/task-1-lifecycle-vitaliyburla
+[submodule "sprint-10/task-2-syntheticevent-vitaliyburla"]
+	path = sprint-10/task-2-syntheticevent-vitaliyburla
+	url = https://github.com/ita-react-marathon-sprint10/task-2-syntheticevent-vitaliyburla
