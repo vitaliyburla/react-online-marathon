@@ -49,3 +49,6 @@
 [submodule "sprint-10/task-2-syntheticevent-vitaliyburla"]
 	path = sprint-10/task-2-syntheticevent-vitaliyburla
 	url = https://github.com/ita-react-marathon-sprint10/task-2-syntheticevent-vitaliyburla
+[submodule "sprint-11/task-1-react-hooks-state-vitaliyburla"]
+	path = sprint-11/task-1-react-hooks-state-vitaliyburla
+	url = https://github.com/ita-react-marathon-sprint11/task-1-react-hooks-state-vitaliyburla
