@@ -55,3 +55,9 @@
 [submodule "sprint-11/task-2-react-hooks-effects-vitaliyburla"]
 	path = sprint-11/task-2-react-hooks-effects-vitaliyburla
 	url = https://github.com/ita-react-marathon-sprint11/task-2-react-hooks-effects-vitaliyburla
+[submodule "sprint-12/task-1-node-mykhaylo-team_m1"]
+	path = sprint-12/task-1-node-mykhaylo-team_m1
+	url = https://github.com/ita-react-marathon-sprint12/task-1-node-mykhaylo-team_m1
+[submodule "sprint-12/task-2-ajax-mykhaylo-team_m1"]
+	path = sprint-12/task-2-ajax-mykhaylo-team_m1
+	url = https://github.com/ita-react-marathon-sprint12/task-2-ajax-mykhaylo-team_m1
