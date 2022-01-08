@@ -61,3 +61,9 @@
 [submodule "sprint-12/task-2-ajax-mykhaylo-team_m1"]
 	path = sprint-12/task-2-ajax-mykhaylo-team_m1
 	url = https://github.com/ita-react-marathon-sprint12/task-2-ajax-mykhaylo-team_m1
+[submodule "sprint-13/task-1-ui-integration-mykhaylo-team_v"]
+	path = sprint-13/task-1-ui-integration-mykhaylo-team_v
+	url = https://github.com/ita-react-marathon-sprint13/task-1-ui-integration-mykhaylo-team_v
+[submodule "sprint-13/task-2-react-redux-mykhaylo-team_v"]
+	path = sprint-13/task-2-react-redux-mykhaylo-team_v
+	url = https://github.com/ita-react-marathon-sprint13/task-2-react-redux-mykhaylo-team_v
