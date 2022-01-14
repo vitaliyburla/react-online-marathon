@@ -67,3 +67,9 @@
 [submodule "sprint-13/task-2-react-redux-mykhaylo-team_v"]
 	path = sprint-13/task-2-react-redux-mykhaylo-team_v
 	url = https://github.com/ita-react-marathon-sprint13/task-2-react-redux-mykhaylo-team_v
+[submodule "sprint-14/task-1-middleware-enhancers-mykhaylo-team_m6"]
+	path = sprint-14/task-1-middleware-enhancers-mykhaylo-team_m6
+	url = https://github.com/ita-react-marathon-sprint14/task-1-middleware-enhancers-mykhaylo-team_m6
+[submodule "sprint-14/task-2-side-effects-mykhaylo-team_m6"]
+	path = sprint-14/task-2-side-effects-mykhaylo-team_m6
+	url = https://github.com/ita-react-marathon-sprint14/task-2-side-effects-mykhaylo-team_m6
